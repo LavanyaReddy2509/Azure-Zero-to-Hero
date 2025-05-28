@@ -2,7 +2,7 @@
 # What is Cloud ?
 The cloud refers to internet-based computing services that allow you to access storage, software, and processing power on remote servers instead of relying on your own local devices.
 # In Simple Terms:
-The cloud = Someone else’s computer that you can use over the internet.
+**The cloud = Someone else’s computer that you can use over the internet.**
 
 # What You Can Do with the Cloud:
 | Service| What It Means | Examples |
