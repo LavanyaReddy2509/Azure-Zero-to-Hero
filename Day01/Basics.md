@@ -5,13 +5,16 @@ The cloud refers to internet-based computing services that allow you to access s
 The cloud = Someone else’s computer that you can use over the internet.
 
 # What You Can Do with the Cloud:
- | Service	    |      What It Means	  | Examples |
- |:..............|:.......................|:...........|
-| Storage	| Save files and data online	| Google Drive, Dropbox, iCloud
-| Hosting	|Run websites or apps without owning servers |	AWS, Heroku, Netlify
-| Computing Power	| Use powerful servers to do heavy tasks like AI training	|Google Cloud, Azure, AWS EC2
-| Databases |	Store structured data online |	Firebase, MongoDB Atlas, Amazon RDS
-| Software (SaaS) |	Use apps without installing them | Gmail, Zoom, Microsoft 365
+| Service| What It Means | Examples |
+|:-----------|:------------:|------------:|
+| Storage      |Save files and data online       | Google Drive, Dropbox, iCloud       |
+| Hosting         | Run websites or apps without owning servers         | AWS, Heroku, Netlify         |
+| Computing Power       | Use powerful servers to do heavy tasks like AI training          | Google Cloud, Azure, AWS EC2         |
+| Databases         | Store structured data online           | Firebase, MongoDB Atlas, Amazon RDS          |
+| Software (SaaS)         | Use apps without installing them          | Gmail, Zoom, Microsoft 365        |
+
+
+
 
 # Benefits of Cloud Computing
 ✅ Access from anywhere
