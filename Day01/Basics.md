@@ -15,7 +15,7 @@ The cloud = Someone else’s computer that you can use over the internet.
 
 
 # What is Cloud Computing ?
-# Cloud computing is the delivery of computing services—such as servers, storage, databases, networking, software, and more—over the internet ("the cloud"), instead of on your local computer or physical hardware.
+**Cloud computing** is the delivery of computing services—such as servers, storage, databases, networking, software, and more—**over the internet** ("the cloud"), instead of on your local computer or physical hardware.
 
 Cloud computing is a technology model that involves the delivery of computing services over the internet. Instead of owning and maintaining physical servers and infrastructure, users can access and use computing resources, applications, and storage provided by either third-party service providers (public cloud) or their own organization (private cloud) through the internet. These services are hosted in data centers located around the world.
 
