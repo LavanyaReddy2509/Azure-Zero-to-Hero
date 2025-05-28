@@ -1,10 +1,10 @@
 # Azure-Zero-to-Hero
 leaning and exploring in detail about Azure concepts.
 
-Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
-What is cloud ?
-What is the difference between public, private and hybrid cloud ?
-What is cloud computing ?
+# Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
+. What is cloud ?
+. What is the difference between public, private and hybrid cloud ?
+. What is cloud computing ?
 Vocabulary
 Virtualization
 Virtual Machine
@@ -18,15 +18,16 @@ High Availability
 Fault Tolerance
 Disaster Recovery
 Load Balancing
-Day 2: Getting Started with Azure
+# Day 2: Getting Started with Azure
 Creating an Account with Azure
 Exploring Regions and Availability Zones in Azure
 IaaS vs PaaS vs SaaS models in Azure
-Day 3: Azure Resources,Resource Groups and Resource Manager
+
+# Day 3: Azure Resources,Resource Groups and Resource Manager
 Resources in Azure
 Resource Groups in Azure
 Azure Resource Manager Overview
-Day 4: Azure Virtual Machines
+# Day 4: Azure Virtual Machines
 Virtualization recap
 Create a Virtual Machine in Azure
 Connect to the Virtual Machine
