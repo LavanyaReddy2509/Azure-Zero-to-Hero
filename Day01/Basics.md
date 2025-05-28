@@ -22,6 +22,10 @@ Cloud computing is a technology model that involves the delivery of computing se
 In essence, cloud computing can involve both third-party providers (public cloud) and an organization's internal resources (private cloud). The distinction lies in whether the computing resources are shared among multiple customers (public cloud) or dedicated to a single organization (private cloud). The flexibility of cloud computing allows organizations to choose the deployment model that best aligns with their needs and requirements.
 
 # Public Cloud:
+**📌 What it is:**
+Services offered over the public internet
+Owned and operated by third-party cloud providers
+
 **Who Uses It:** Everyone, like individuals, businesses, and organizations.
 
 **What It's Like:** Imagine a giant, shared computer space on the internet. It's like using apps, storing files, or doing tasks on the internet that anyone can access.
@@ -29,6 +33,10 @@ In essence, cloud computing can involve both third-party providers (public cloud
 **Example:** Think of Google Drive or Amazon Web Services (AWS).
 
 # Private Cloud:
+**📌 What it is:**
+Cloud infrastructure dedicated to a single organization
+Can be hosted on-premises or by a third-party
+
 **Who Uses It:** One specific organization or business.
 
 **What It's Like:** Picture having your own personal, private computer space. It's like a digital clubhouse where only you and your team have access. Others can't just drop in.
@@ -36,6 +44,10 @@ In essence, cloud computing can involve both third-party providers (public cloud
 **Example:** A company using its own server for all its digital needs.
 
 # Hybrid Cloud:
+**📌 What it is:**
+Mix of public and private clouds, working together
+Data and applications can move between environments
+
 **Who Uses It:** A mix of everyone, depending on needs.
 
 **What It's Like:** It's like having your private computer space, but sometimes you use the shared internet space too.
