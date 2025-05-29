@@ -69,16 +69,16 @@ Azure Resource Manager and Azure Templates Deep Dive
 Comparison with Bicep
 Comparison with Azure CLI
 Comparison with Terraform
-Day 12: Azure Identity and Access Management (IAM)
+# Day 12: Azure Identity and Access Management (IAM)
 Authentication Services in Azure
 Identity Access Management (IAM)
 Implementing RBAC
 Best Practices for RBAC
-Day 13: Introduction to Azure DevOps
+# Day 13: Introduction to Azure DevOps
 Overview of Azure DevOps
 Introduction to the Azure DevOps services
 Setting Up Projects and Repositories
-Day 14: Azure DevOps - CI Setup - (PROJECT 2)
+# Day 14: Azure DevOps - CI Setup - (PROJECT 2)
 Implementing Continuous Integration (CI)
 
 A front-end web app in Python which lets you vote between two options
