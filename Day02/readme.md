@@ -2,7 +2,7 @@
 # Regions in Azure
 # ✅ 1. Azure Region
 📌 What is a Region?
-An Azure Region is a geographic area that contains one or more data centers, all connected via a low-latency network.
+- An Azure Region is a geographic area that contains one or more data centers, all connected via a low-latency network.
 
 # 🔹 Examples of Azure Regions:
 East US
@@ -25,7 +25,7 @@ Affects latency and performance for users
 
 # ✅ 2. Availability Zones (AZs)
 📌 What is an Availability Zone?
-Azure Availability Zones are part of Azure's high-availability architecture, providing redundancy and resiliency for applications and data. Each Azure region is divided into multiple Availability Zones Each zone has:
+- Azure Availability Zones are part of Azure's high-availability architecture, providing redundancy and resiliency for applications and data. Each Azure region is divided into multiple Availability Zones Each zone has:
 - Independent power
 - Cooling
 - Networking
