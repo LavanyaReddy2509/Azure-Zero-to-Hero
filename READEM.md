@@ -2,9 +2,9 @@
 leaning and exploring in detail about Azure concepts.
 
 # Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
-. What is cloud ?
-. What is the difference between public, private and hybrid cloud ?
-. What is cloud computing ?
+- What is cloud ?
+- What is the difference between public, private and hybrid cloud ?
+- What is cloud computing ?
 Vocabulary
 Virtualization
 Virtual Machine
@@ -19,9 +19,9 @@ Fault Tolerance
 Disaster Recovery
 Load Balancing
 # Day 2: Getting Started with Azure
-Creating an Account with Azure
-Exploring Regions and Availability Zones in Azure
-IaaS vs PaaS vs SaaS models in Azure
+- Creating an Account with Azure
+- Exploring Regions and Availability Zones in Azure
+- IaaS vs PaaS vs SaaS models in Azure
 
 # Day 3: Azure Resources,Resource Groups and Resource Manager
 Resources in Azure
@@ -70,10 +70,10 @@ Comparison with Bicep
 Comparison with Azure CLI
 Comparison with Terraform
 # Day 12: Azure Identity and Access Management (IAM)
-Authentication Services in Azure
-Identity Access Management (IAM)
-Implementing RBAC
-Best Practices for RBAC
+- Authentication Services in Azure
+- Identity Access Management (IAM)
+- Implementing RBAC
+- Best Practices for RBAC
 # Day 13: Introduction to Azure DevOps
 Overview of Azure DevOps
 Introduction to the Azure DevOps services
