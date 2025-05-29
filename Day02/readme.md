@@ -5,11 +5,11 @@
 - An Azure Region is a geographic area that contains one or more data centers, all connected via a low-latency network.
 
 # 🔹 Examples of Azure Regions:
-East US
-West Europe
-Southeast Asia
-Central India
-Australia East
+- East US
+- West Europe
+- Southeast Asia
+- Central India
+- Australia East
 
 # 🎯 Why It Matters:
 You choose a region when creating services (like VMs, databases, etc.)
