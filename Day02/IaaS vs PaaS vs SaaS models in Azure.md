@@ -44,7 +44,7 @@ Azure DevOps (hosted)
 
 # 📊 Summary Table:
 | **Feature** | **Iaas** | **PaaS** | **Saas** |
-|:-----------|:------------:|------------:|
+|:-----------|:------------:|------------:|------------:|
 | Managed by You      | Apps, OS       | 	Apps only       | Just use the app       |
 | Managed by Azure        | VM, network, storage            | VM, OS, runtime           | Everything       |
 | Flexibility          |   High         | Medium           | Low       |
