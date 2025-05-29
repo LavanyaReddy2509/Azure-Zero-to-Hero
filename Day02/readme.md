@@ -39,10 +39,10 @@ Affects latency and performance for users
 - Deploy your app across multiple zones for high availability
 - Protect against data center failures within the same region
 
-, which are essentially unique physical locations with independent power, cooling, and networking.
+ which are essentially unique physical locations with independent power, cooling, and networking.
 
 # Key Points about Azure Availability Zones:
-High Availability: By distributing resources across Availability Zones, Azure ensures that applications remain available even in the face of localized failures, such as hardware or network failures.
+**High Availability:** By distributing resources across Availability Zones, Azure ensures that applications remain available even in the face of localized failures, such as hardware or network failures.
 
 **Fault Isolation:**  Availability Zones are designed to be isolated from one another, meaning a failure in one zone does not impact the availability of resources in other zones.
 
