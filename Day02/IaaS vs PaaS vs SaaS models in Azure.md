@@ -49,7 +49,7 @@ Azure DevOps (hosted)
 | Managed by Azure        | VM, network, storage            | VM, OS, runtime           | Everything       |
 | Flexibility          |   High         | Medium           | Low       |
 | Complexity          | High            | Moderate           | Minimal       |
-| Cost         | Pay per use            | Pay for platform          | ubscription-based       |
+| Cost         | Pay per use            | Pay for platform          | subscription-based       |
 
 # 🎯 Choosing the Right Model in Azure:
 Need	Recommended Model
