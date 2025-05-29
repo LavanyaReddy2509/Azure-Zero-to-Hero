@@ -10,10 +10,10 @@ IaaS provides **virtualized computing resources** over the internet. You get vir
 - **Flexibility:** IaaS is suitable for a wide range of applications, offering flexibility in terms of technology stack.
 
 # 📌 Azure Examples:
-Azure Virtual Machines (VMs)
-Azure Virtual Network
-Azure Blob Storage
-Azure Load Balancer
+- Azure Virtual Machines (VMs)
+- Azure Virtual Network
+- Azure Blob Storage
+- Azure Load Balancer
 
 # Platform as a Service (PaaS)
 PaaS provides a managed environment for app development and deployment. Azure handles the underlying infrastructure, OS, and runtime.
@@ -23,10 +23,10 @@ PaaS provides a managed environment for app development and deployment. Azure ha
 - **Automatic Scaling:** PaaS offerings often include built-in scaling capabilities, automatically adjusting resources based on demand.
 - **Reduced Maintenance:** Azure handles tasks like patching, updates, and maintenance, freeing up resources for innovation.
 #📌 Azure Examples:
-Azure App Service
-Azure SQL Database
-Azure Functions
-Azure Logic Apps
+- Azure App Service
+- Azure SQL Database
+- Azure Functions
+- Azure Logic Apps
 
 # Software as a Service (SaaS)
 SaaS is a cloud computing model that delivers software applications over the internet. Users can access the software through a web browser without the need for installation or maintenance. In Azure, SaaS offerings include Microsoft 365, Dynamics 365, and many third-party applications.
@@ -37,10 +37,10 @@ SaaS is a cloud computing model that delivers software applications over the int
 - **Subscription-Based:** SaaS applications are typically offered on a subscription basis, allowing users to pay for what they use.
 
 # ✅ Azure Examples:
-Microsoft 365
-Dynamics 365
-Power BI (as a cloud service)
-Azure DevOps (hosted)
+- Microsoft 365
+- Dynamics 365
+- Power BI (as a cloud service)
+- Azure DevOps (hosted)
 
 # 📊 Summary Table:
 | **Feature** | **Iaas** | **PaaS** | **Saas** |
