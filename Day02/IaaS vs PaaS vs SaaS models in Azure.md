@@ -5,9 +5,9 @@ IaaS provides **virtualized computing resources** over the internet. You get vir
 
 # Key Characteristics of Azure IaaS:
 
-**Scalability:** Easily scale resources up or down based on demand.
-**Full Control:** Users have control over the underlying infrastructure, including operating systems and applications.
-**Flexibility:** IaaS is suitable for a wide range of applications, offering flexibility in terms of technology stack.
+- **Scalability:** Easily scale resources up or down based on demand.
+- **Full Control:** Users have control over the underlying infrastructure, including operating systems and applications.
+- **Flexibility:** IaaS is suitable for a wide range of applications, offering flexibility in terms of technology stack.
 
 # 📌 Azure Examples:
 Azure Virtual Machines (VMs)
@@ -19,9 +19,9 @@ Azure Load Balancer
 PaaS provides a managed environment for app development and deployment. Azure handles the underlying infrastructure, OS, and runtime.
 
 # Key Characteristics of Azure PaaS:
-**Simplified Development:** Developers can focus on coding and application logic, while Azure manages the underlying infrastructure.
-**Automatic Scaling:** PaaS offerings often include built-in scaling capabilities, automatically adjusting resources based on demand.
-**Reduced Maintenance:** Azure handles tasks like patching, updates, and maintenance, freeing up resources for innovation.
+- **Simplified Development:** Developers can focus on coding and application logic, while Azure manages the underlying infrastructure.
+- **Automatic Scaling:** PaaS offerings often include built-in scaling capabilities, automatically adjusting resources based on demand.
+- **Reduced Maintenance:** Azure handles tasks like patching, updates, and maintenance, freeing up resources for innovation.
 #📌 Azure Examples:
 Azure App Service
 Azure SQL Database
@@ -32,9 +32,9 @@ Azure Logic Apps
 SaaS is a cloud computing model that delivers software applications over the internet. Users can access the software through a web browser without the need for installation or maintenance. In Azure, SaaS offerings include Microsoft 365, Dynamics 365, and many third-party applications.
 
 # Key Characteristics of Azure SaaS:
-**Accessibility:** Access software applications from any device with an internet connection.
-**Managed by Providers:** SaaS providers handle maintenance, updates, and security, reducing the burden on end-users.
-**Subscription-Based:** SaaS applications are typically offered on a subscription basis, allowing users to pay for what they use.
+- **Accessibility:** Access software applications from any device with an internet connection.
+- **Managed by Providers:** SaaS providers handle maintenance, updates, and security, reducing the burden on end-users.
+- **Subscription-Based:** SaaS applications are typically offered on a subscription basis, allowing users to pay for what they use.
 
 # ✅ Azure Examples:
 Microsoft 365
