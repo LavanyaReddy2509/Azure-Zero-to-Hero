@@ -38,11 +38,12 @@ Deploy your app across multiple zones for high availability
 Protect against data center failures within the same region
 
 # 📊 Visual Summary
-| Concept |	Region |	Availability Zone
-| :--Scope | :-- 	Geographic area | :--	Individual data center within a region |
-| :--Example| :--	East US, North Europe | :--	Zone 1, Zone 2, Zone 3 |
-| :--Fault  Isolation | :-- Between regions	| :-- Between data centers in the same region |
-| :--Used For | :--	Service location, compliance, latency	| :--Redundancy and high availability |
+| Concept |	Region |	Availability Zone |
+| :------- | :----- : |----------------:|
+| Scope | Geographic area | Individual data center within a region |
+| Example| East US, North Europe | Zone 1, Zone 2, Zone 3 |
+| Fault  Isolation | Between regions	| Between data centers in the same region |
+| Used For | 	Service location, compliance, latency	| Redundancy and high availability |
 
 # 🔄 Example in Practice
 If you're deploying a web application:
