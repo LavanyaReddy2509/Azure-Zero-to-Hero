@@ -19,7 +19,7 @@ Fault Tolerance
 Disaster Recovery
 Load Balancing
 # Day 2: Getting Started with Azure
-- Creating an Account with Azure
+- Creating an Account with Azure : search for microsoft Azure -> click first link -> click ontry azure for free -> start free ->sign in with **mail** or **github** -> click on agree -> identity verification by card -> successfully created ->  Go to azure portal.
 - Exploring Regions and Availability Zones in Azure
 - IaaS vs PaaS vs SaaS models in Azure
 
