@@ -62,8 +62,7 @@ Click on the “Create” button. Azure will start deploying your virtual machin
 
 # Step 9: Access Your Windows 11 Virtual Machine
 Once the deployment is complete, navigate to the “Virtual machines” section in the Azure portal.
-<img width="383" alt="image" src="https://github.com/user-attachments/assets/d45d020d-e0b7-4da8-936e-e73a6d731387" />
-
+<img width="528" alt="image" src="https://github.com/user-attachments/assets/e82f0a33-d4b3-4d71-a39e-1e4d87d773f3" />
 
 
 Find your newly created Windows 11 VM and click copy the Public IP Address.
