@@ -66,7 +66,7 @@
 | Part	| Example |	Meaning |
 | :----- | :------ | :------ |
 | Series	| D, E, F, B, N, etc.	| Defines the type of VM (General, Compute, Memory, GPU, etc.) |
-| Size Number	2, 4, 8, etc. |	Indicates the number of vCPUs or relative size |
+| Size Number |	2, 4, 8, etc. |	Indicates the number of vCPUs or relative size |
 | Optional Letter(s) |	s, m, r, a, etc.	| s- Premium Storage, m-Memory etc |
 | Version	| _v2, _v3, _v4, etc. |	Version of the VM type, with improvements in each version |
 
