@@ -33,7 +33,8 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-# **Note: ** Add/Modify a Network Security Group (NSG)
+# **Note: ** By default, Jenkins will not be accessible to the external world due to the inbound traffic restriction by AZure. Open port 8080 in the inbound traffic rules as show below.
+#** Add/Modify a Network Security Group (NSG)
 In the Azure Portal, go to Virtual Machines.
 - Select your VM.
 - In the left pane, click Networking.
@@ -44,16 +45,20 @@ In the Azure Portal, go to Virtual Machines.
 - Click on your NSG (Network Security Group).
 - Under Settings, click Inbound security rules.
 - Click + Add to add a rule.
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/9eec5348-0a0d-4cef-b896-683f17167954" />
 
 # Source	Any or IP Addresses (safer)
 - Source port ->	*
 - Destination ->	Any
-- Destination port ->	22 for SSH (Linux), 3389 for RDP (Windows)
+- Destination port ->	present 8080 (for jenkins) 
 - Protocol	-> TCP
 - Action	-> Allow
 - Priority ->	100 (lower = higher priority)
 - Name	-> Allow-SSH or Allow-RDP
 ### Login to Jenkins using URL:
+http://:8080 [You can get the ec2-instance-public-ip-address from your azure VM console page]
+
+Note: If you are not interested in allowing All Traffic to your vm 1. Delete the inbound traffic rule for your VM 2. Edit the inbound traffic rule to only allow custom TCP port 8080
 After you login to Jenkins, 
       - Run the command to copy the Jenkins Admin Password - `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
       - Enter the Administrator password
@@ -108,7 +113,9 @@ systemctl restart docker
 ```
 
 Once you are done with the above steps, it is better to restart Jenkins.
-
+```
+http://<VM-public-ip>:8080/restart
+```
 The docker agent configuration is now successful.
 
 
