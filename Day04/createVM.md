@@ -26,24 +26,31 @@ Under the Image section, select: See all Images to see the Windows 11 image. You
 
 
 2. If applicable, select between the available Windows 11 Image (Standard, Pro, etc.) according to your requirements.
-<img width="535" alt="image" src="https://github.com/user-attachments/assets/b6f47145-293f-46de-a537-633c9828c83d" />
-
-
 
 # Step 5: Configure Size
 For Size. Click on “See all Sizes” to select the appropriate size for your VM based on your expected workload.
-![image](https://github.com/user-attachments/assets/a8dd51d7-1c9b-4f82-94ad-f74b0304642d)
+<img width="535" alt="image" src="https://github.com/user-attachments/assets/b6f47145-293f-46de-a537-633c9828c83d" />
+
 
 Choose a VM size that fits your needs (CPU, RAM). Confirm the choice by clicking on “Select”.
 
 # Step 6: Configure Administrator Account
-- Create an administrator account for your VM:
-- **Username:** Choose a username. eg azureuser
-- **Password:** Set a strong password and confirm it.
+- Create an administrator account for your VM: based on SSH public key or password
+- If you select the password then go for username and password
+     - **Username:** Choose a username. eg azureuser
+     - **Password:** Set a strong password and confirm it.
 ![image](https://github.com/user-attachments/assets/ee97aa6d-0754-4a9c-b952-c01db240403e)
 
+  - if you select the SSH public key then we need authentication details.
+  <img width="433" alt="image" src="https://github.com/user-attachments/assets/a537427a-df08-4fe2-8fd2-4d5690cd0c31" />
+below is the generating SSH key pair
+<img width="644" alt="image" src="https://github.com/user-attachments/assets/12244e2d-74f0-4d6f-a18b-3ddca2eef151" />
+
+    
 # Step 7: Network Configuration
 For the Inbound port rules: Select Allow selected port and ensure port RDP 3389 is selected. For a Linux VM, Port 22 is selected instead.
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/d0d7a381-faf2-42d4-ac9f-2e89ec58a82e" />
+
 ![image](https://github.com/user-attachments/assets/4ad24264-b9d4-4bff-95de-b91a7e1c43b0)
 
 # Step 8: Review and Create
@@ -55,7 +62,9 @@ Click on the “Create” button. Azure will start deploying your virtual machin
 
 # Step 9: Access Your Windows 11 Virtual Machine
 Once the deployment is complete, navigate to the “Virtual machines” section in the Azure portal.
-![image](https://github.com/user-attachments/assets/7ca6a085-e6c6-4687-9f89-4703e200474c)
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/d45d020d-e0b7-4da8-936e-e73a6d731387" />
+
+
 
 Find your newly created Windows 11 VM and click copy the Public IP Address.
 Click on the “Connect” button and select “RDP” to download the RDP file.
