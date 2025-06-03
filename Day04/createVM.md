@@ -17,7 +17,8 @@ Now, you need to fill in the basic settings for your virtual machine.
 - **Virtual Machine Name:** Enter a name for your VM (e.g., “my-vm”).
 - **Region:** Choose the appropriate region where you want your VM to be hosted.
 - **Availability Options:** Leave the default unless you have specific needs for redundancy.
-![image](https://github.com/user-attachments/assets/0ce04963-ed59-4cb9-b11c-5ec971518f83)
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/bb80cde5-854e-4a99-a534-ddc55e898253" />
+
 
 # Step 4: Choose an Image
 Under the Image section, select: See all Images to see the Windows 11 image. You can find it in the “Windows” category or type in the search box.
