@@ -1,5 +1,5 @@
 # 💻 Azure Virtual Machine Types (Series)
-- Microsoft Azure offers different types of **Virtual Machines (VMs)** optimized for various use cases. Each VM series is designed for specific workloads such as general-purpose, compute-intensive, memory-intensive, storage-optimized, GPU-enabled, and high-performance computing.
+- **Microsoft Azure** offers different types of **Virtual Machines (VMs)** optimized for various use cases. Each VM series is designed for specific workloads such as **general-purpose, compute-intensive, memory-intensive, storage-optimized, GPU-enabled, and high-performance computing**.
 
 # 📊 Overview of Azure VM Types
 | VM Series	| Optimized For	Use Cases |
