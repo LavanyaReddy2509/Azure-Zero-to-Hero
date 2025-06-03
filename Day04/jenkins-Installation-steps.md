@@ -54,11 +54,6 @@ In the Azure Portal, go to Virtual Machines.
 - Priority ->	100 (lower = higher priority)
 - Name	-> Allow-SSH or Allow-RDP
 ### Login to Jenkins using URL:
-
-Note: If you are not interested in allowing `All Traffic` to your EC2 instance
-      1. Delete the inbound traffic rule for your instance
-      2. Edit the inbound traffic rule to only allow custom TCP port `8080`
-  
 After you login to Jenkins, 
       - Run the command to copy the Jenkins Admin Password - `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
       - Enter the Administrator password
