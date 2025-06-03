@@ -2,6 +2,14 @@
 - A **Virtual Machine (VM)** is a **software-based computer** that runs on a physical machine but behaves like a separate physical device. It has its own ***CPU, memory, storage, and operating system,*** just like a real computer.
 - **Azure Virtual Machines** (VMs) are **on-demand, scalable computing resources** offered by Microsoft Azure. They provide **Infrastructure as a Service (IaaS)**, enabling you to run **Windows or Linux operating** systems in the cloud—just like on a physical server, but virtualized.
 
+# ✅ Simple Definition
+A **Virtual Machine** is a simulated computer created using software. It allows you to run an **operating system and applications** without needing physical hardware.
+
+# 🛠️ How It Works
+- A **hypervisor** (like Hyper-V, VMware, or VirtualBox) runs on a host machine.
+- The hypervisor creates and manages multiple virtual machines.
+- Each VM runs its own independent OS and applications.
+- 
 # ✅ Key Features of Azure Virtual Machines
 | Feature| Description |
 | :------------| :--------------- |
@@ -9,7 +17,7 @@
 | Scalability	Easily | scale up/down based on demand using VM Scale Sets |
 | Availability Options	| Use Availability Sets or Zones for high availability and fault tolerance |
 | Custom Images |	Create and deploy your own custom OS images |
-| Automation |	Automate VM creation with ARM Templates, Bicep, or Terraform |
+| Automation |	Automate VM creation with ARM Templates(Azure Resource Manager Templates), Bicep, or Terraform |
 | Integration |	Connects with Azure services like Load Balancer, Backup, Monitor |
 
 # 🛠️ Common Use Cases
