@@ -3,7 +3,8 @@ Open your web browser and navigate to the Azure Portal.
 Enter your Microsoft account credentials to sign in. If you don’t have an account, you can create a free one.
 # Step 2: Create a Virtual Machine
 Once logged in, click on the “Create a resource” button located in the top left corner.
-![image](https://github.com/user-attachments/assets/87a57c69-addd-4e11-85f6-762bf8e69cd2)
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/9952db56-c947-498b-80f5-14c97cf20db8" />
+
 2. Go to Virtual Machine and Click on the “Create” button to start configuring your new Windows 11 VM.
 ![image](https://github.com/user-attachments/assets/eed47449-da16-4c80-907d-cbfd8951718a)
 
