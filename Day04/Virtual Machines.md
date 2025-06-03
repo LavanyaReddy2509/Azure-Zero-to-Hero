@@ -1,4 +1,4 @@
-## 💻 What Are Virtual Machines (VMs) in Azure?
+## 💻 What is Virtual Machines (VMs) in Azure?
 - A **Virtual Machine (VM)** is a **software-based computer** that runs on a physical machine but behaves like a separate physical device. It has its own ***CPU, memory, storage, and operating system,*** just like a real computer.
 - **Azure Virtual Machines** (VMs) are **on-demand, scalable computing resources** offered by Microsoft Azure. They provide **Infrastructure as a Service (IaaS)**, enabling you to run **Windows or Linux operating** systems in the cloud—just like on a physical server, but virtualized.
 
@@ -54,4 +54,4 @@ A **Virtual Machine** is a simulated computer created using software. It allows 
    - Size (compute power)
    - Authentication type (password or SSH)
    - Configure disk, networking, monitoring
--Click "Review + Create" and then "Create"
+- Click "Review + Create" and then "Create"
