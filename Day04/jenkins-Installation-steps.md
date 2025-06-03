@@ -56,7 +56,9 @@ In the Azure Portal, go to Virtual Machines.
 - Priority ->	100 (lower = higher priority)
 - Name	-> Allow-SSH or Allow-RDP
 ### Login to Jenkins using URL:
-http://:8080 [You can get the ec2-instance-public-ip-address from your azure VM console page]
+http://:8080 [You can get the vm-public-ip-address from your azure VM console page]
+# Example:
+<img width="256" alt="image" src="https://github.com/user-attachments/assets/4163c337-e32f-4715-be82-1382c4d38fa4" />
 
 Note: If you are not interested in allowing All Traffic to your vm 1. Delete the inbound traffic rule for your VM 2. Edit the inbound traffic rule to only allow custom TCP port 8080
 After you login to Jenkins, 
