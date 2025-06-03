@@ -22,10 +22,12 @@ Now, you need to fill in the basic settings for your virtual machine.
 
 # Step 4: Choose an Image
 Under the Image section, select: See all Images to see the Windows 11 image. You can find it in the “Windows” category or type in the search box.
-![image](https://github.com/user-attachments/assets/6f8f81f1-265c-4871-afa0-e6ad210145c6)
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/d5026ad9-c6a3-4d16-a7d7-dc5b428146e9" />
+
 
 2. If applicable, select between the available Windows 11 Image (Standard, Pro, etc.) according to your requirements.
-![image](https://github.com/user-attachments/assets/3723cce0-39eb-4ee1-bf3c-5795f1df6862)
+<img width="535" alt="image" src="https://github.com/user-attachments/assets/b6f47145-293f-46de-a537-633c9828c83d" />
+
 
 
 # Step 5: Configure Size
