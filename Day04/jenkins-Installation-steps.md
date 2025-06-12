@@ -33,7 +33,7 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-# **Note: ** By default, Jenkins will not be accessible to the external world due to the inbound traffic restriction by AZure. Open port 8080 in the inbound traffic rules as show below.
+# Note: By default, Jenkins will not be accessible to the external world due to the inbound traffic restriction by AZure. Open port 8080 in the inbound traffic rules as show below.
 #** Add/Modify a Network Security Group (NSG)
 In the Azure Portal, go to Virtual Machines.
 - Select your VM.
