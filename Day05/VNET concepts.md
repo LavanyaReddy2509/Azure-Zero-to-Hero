@@ -1,6 +1,6 @@
 # Azure Networking
 
-## Virtual Network
+**Azure Virtual Network (VNet)** is a logical isolation of the Azure cloud dedicated to your subscription. It allows Azure resources (like VMs, databases, etc.) to securely communicate with each other, the internet, and on-premises networks.
 
 A Virtual Network (VNet) in Azure is a logically isolated network that securely connects Azure resources and extends on-premises networks. Key features include:
 
@@ -10,6 +10,16 @@ A Virtual Network (VNet) in Azure is a logically isolated network that securely 
 
 - **Address Space**: VNets have an address space defined using CIDR notation, determining the IP address range.
 
+**🔧 Key Features of Azure VNet:**
+Feature  |	Description
+------------------------
+Subnets	| Divide your VNet into smaller networks to isolate workloads.
+Network Security Groups (NSG) |	Control inbound/outbound traffic to/from resources.
+VNet Peering	| Connect VNets across regions or subscriptions.
+VPN Gateway / ExpressRoute |	Connect on-premises networks to Azure VNet.
+Private Endpoints |	Access Azure services over a private IP.
+Service Endpoints	| Extend your VNet to Azure services (like Blob Storage).
+DNS  | Support	Use Azure-provided DNS or custom DNS servers.
 ## Subnets, CIDR
 
 ### Subnets
